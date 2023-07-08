@@ -29,11 +29,11 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [Moblie Portfolio] <a name="Capstone Project"></a>
+# 📖 [Capstone Project] <a name="Capstone Project"></a>
 
 
 
-**[Ahmed mobile portfolio]** is a Moblie Portfolio Website.
+**[TED Capstone Project]** is a Capstone Project Website.
 
 ## 🛠 Built With <a name="Html&Css"></a>
 
