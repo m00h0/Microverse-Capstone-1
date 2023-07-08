@@ -3,7 +3,7 @@
 <div align="center">
   
 
-  <h3><b>Desktop & Mobile Portfolio</b></h3>
+  <h3><b>Capstone Project</b></h3>
 
 </div>
 
@@ -46,7 +46,7 @@
 </details>
 
 
-### Key Features <a name="Moblie Portfolio"></a>
+### Key Features <a name="Capstone project"></a>
 
 
 - **[Mobile Project]**
@@ -56,7 +56,13 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link](https://newtonah0.github.io/Mobile-Portfolio/)
+- [Live Demo Link](https://newtonah0.github.io/Microverse-Capstone-1/index.html)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Walkthrough <a name="walkthrough"></a>
+
+- [Loom Video]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -74,7 +80,7 @@ In order to run this project you need: Run Linters
 
 Clone this repository to your desired folder:
 
-https://github.com/newtonah0/Mobile-Portfolio
+https://github.com/newtonah0/Microverse-Capstone-1/tree/capstone-project
 
 
 ### Install
@@ -120,17 +126,11 @@ npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standa
 
 ## 🤝 Contributing <a name="Microverse"></a>
 
-👤 **Bett**
 
-- GitHub: [@githubhandle](https://github.com/Bettenoch)
-
-👤 **May**
-
-- GitHub: [@githubhandle](https://github.com/MayPyone)
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/newtonah0/Mobile-Portfolio/issues).
+Feel free to check the [issues page](https://github.com/newtonah0/Microverse-Capstone/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
