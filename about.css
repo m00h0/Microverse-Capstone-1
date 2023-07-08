@@ -67,6 +67,7 @@ body {
     gap: 4px;
     text-align: center;
     margin-left: -8%;
+    text-decoration: none;
   }
 
   a {
@@ -481,6 +482,7 @@ body {
 
   .link3 {
     color: #d85942;
+    text-decoration: none;
   }
 
   .nav-menu1 {
