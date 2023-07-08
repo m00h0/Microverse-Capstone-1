@@ -462,7 +462,7 @@ body {
   .nav-link2 {
     display: flex;
     position: absolute;
-    left: 80%;
+    left: 70%;
     align-items: center;
     text-align: center;
     border-radius: 2px;
@@ -482,9 +482,9 @@ body {
     display: flex;
     text-align: end;
     justify-content: end;
-    gap: 12px;
-    padding-right: 2%;
-    background: #041a3d;
+    gap: 35px;
+    padding-right: 15%;
+    background: #3e4344;
     list-style: none;
   }
 
@@ -540,6 +540,8 @@ body {
   .navbar {
     display: flex;
     height: 60px;
+    position: relative;
+    right: -10%;
     align-items: center;
     justify-content: center;
     list-style: none;
@@ -555,7 +557,7 @@ body {
 
   .nav-link {
     margin-left: 80%;
-    color: #172b4d;
+    color: #4d5a6e;
   }
 
   #link1 {
