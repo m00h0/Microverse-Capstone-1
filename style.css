@@ -599,6 +599,8 @@ body {
   .nm-pd {
     text-decoration: underline;
     color: #dcdcdc;
+    padding-top: 5%;
+    padding-bottom: 5%;
   }
 
   .pg-parts {
@@ -632,18 +634,9 @@ body {
   }
 
   .nm-pg {
-    margin-top: 8%;
-    background-color: #d85942;
-    padding: 20px 28px;
-    color: #f6f8fa;
-    margin-bottom: 10%;
-    border-radius: 4px;
-    cursor: pointer;
-    border: 1px solid #172b4d;
-    min-width: 72px;
-    margin-left: 2%;
-    padding-left: 2%;
+    display: none;
   }
+
 
   .col-md-4 {
     display: none;
