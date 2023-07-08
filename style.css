@@ -57,7 +57,6 @@ body {
   }
 
   .m-logo {
-    
     display: none;
   }
 
@@ -76,7 +75,6 @@ body {
     height: 100vh;
     padding-top: 10%;
     align-items: center;
-    background-size: cover;
     background-size: cover;
   }
 
