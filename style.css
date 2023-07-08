@@ -57,6 +57,7 @@ body {
   }
 
   .m-logo {
+    
     width: 72px;
     display: flex;
     align-items: center;
@@ -83,6 +84,7 @@ body {
     height: 100vh;
     padding-top: 10%;
     align-items: center;
+    background-size: cover;
     background-size: cover;
   }
 
@@ -363,6 +365,8 @@ body {
     height: 100vh;
     padding-top: 10%;
     align-items: center;
+    background-size: cover;
+    width: 100%;
   }
 
   .l-h3 {
@@ -387,7 +391,6 @@ body {
 
   .ted {
     display: flex;
-    justify-content: center;
     text-align: left;
   }
 
@@ -464,7 +467,8 @@ body {
     padding-top: 4%;
     padding-bottom: 4%;
     padding-left: 2%;
-    margin-right: 2%;
+    margin-right: 20%;
+    text-align: left;
     background: #eef0f3;
     border: 2px solid rgb(236, 228, 228);
     margin-left: 8.5%;

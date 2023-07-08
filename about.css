@@ -613,12 +613,15 @@ body {
 
   .about-text3 {
     padding-top: 5%;
+    margin-right: 10%;
+    margin-left: 5%;
   }
 
   .about-text {
     width: 70%;
     padding: 50px 70px;
     margin-left: 20%;
+    margin-right: 10%;
     display: flex;
     justify-content: center;
     text-align: center;
@@ -648,7 +651,7 @@ body {
     margin-top: 2%;
     background-color: #d85942;
     text-align: center;
-    margin-left: 50%;
+    margin-left: 49%;
   }
 
   .img-mid {
@@ -656,7 +659,7 @@ body {
     display: flex;
     padding: 18px 18px;
     border-radius: 4px;
-    margin-left: 42%;
+    margin-left: 45%;
     text-align: center;
     align-items: center;
     border: 1px solid #dde1e7;
@@ -688,7 +691,7 @@ body {
   .contact-us {
     text-align: center;
     padding-top: 8%;
-    margin-left: 10%;
+    margin-left: 2%;
   }
 
   .sponsors {
@@ -698,11 +701,15 @@ body {
   .exhibit-img {
     background-image: url('./Images/ted1.jpg');
     background-size: cover;
+    width: 300px;
+    height: 200px;
   }
 
   .exhibit-img1 {
     background-image: url('./Images/ted1.jpg');
     background-size: cover;
+    width: 300px;
+    height: 200px;
   }
 
   .img-p {
@@ -732,19 +739,17 @@ body {
   }
 
   .collage-exhibit-section {
-    display: grid;
+    display: flex;
     border-radius: 2px;
     gap: 20px;
-    grid-template-columns: 47% 47%;
-    grid-template-rows: 200px 200px;
+    justify-content: center;
     padding-top: 20%;
     margin-top: -14%;
-    margin-left: 8%;
-    margin-bottom: -20%;
+    padding-bottom: 4%;
   }
 
   footer {
-    height: 200px;
+    height: auto;
     background: #2e2e2e;
     color: #fff;
     display: flex;
@@ -755,7 +760,7 @@ body {
 
   .footer-img {
     position: absolute;
-    margin-top: 5%;
+    margin-top: 6%;
     left: 14%;
     margin-bottom: -11%;
     width: 84px;
@@ -763,5 +768,7 @@ body {
 
   .footer-p {
     margin-top: 10%;
+    margin-bottom: 5%;
+    padding-top: -10%;
   }
 }
