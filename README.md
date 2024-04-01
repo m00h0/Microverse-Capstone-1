@@ -55,7 +55,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link](https://newtonah0.github.io/Microverse-Capstone-1/index.html)
+- [Live Demo Link](https://mooh0.github.io/Microverse-Capstone-1/index.html)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
