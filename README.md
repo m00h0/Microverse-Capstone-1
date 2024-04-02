@@ -61,8 +61,7 @@
 
 ## Walkthrough <a name="walkthrough"></a>
 
-- [Loom Video](https://www.loom.com/share/5ff4d756593c4e6d8965b488248c5eac?sid=6469889e-a93f-46d0-a6c4-027242522673)
-
+(Coming soon)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -79,7 +78,7 @@ In order to run this project you need: Run Linters
 
 Clone this repository to your desired folder:
 
-https://github.com/newtonah0/Microverse-Capstone-1/tree/capstone-project
+https://github.com/m00h0/Microverse-Capstone-1/tree/capstone-project
 
 
 ### Install
