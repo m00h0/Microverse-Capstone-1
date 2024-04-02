@@ -128,7 +128,7 @@ npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standa
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/newtonah0/Microverse-Capstone-1/issues).
+Feel free to check the [issues page](https://github.com/m00h0/Microverse-Capstone-1/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
