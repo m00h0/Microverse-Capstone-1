@@ -28,7 +28,7 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 [Capstone Project] <a name="Capstone Project"></a>
+# 📖 [Capstone Project] <a name="about-project"></a>
 
 
 
