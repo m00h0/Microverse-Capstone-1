@@ -44,7 +44,7 @@
 </details>
 
 
-### Key Features <a name="Capstone project"></a>
+### Key Features <a name="key-features"></a>
 
 
 - **[Mobile Project]**
