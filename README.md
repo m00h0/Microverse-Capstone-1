@@ -45,7 +45,6 @@
 
 
 ### Key Features <a name="key-features"></a>
-- (Coming soon).
 
 - **[Mobile Project]**
 
