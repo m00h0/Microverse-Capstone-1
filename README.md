@@ -137,7 +137,7 @@ If you like this project give me star
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank  Cindy Shin the author of the original design, .
+I would like to thank  Cindy Shin the author of the original design .
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## 📝 License <a name="license"></a>
