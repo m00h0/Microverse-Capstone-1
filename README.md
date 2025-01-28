@@ -30,7 +30,7 @@
 
 
 
-**[TED Capstone Project]** is a Capstone Project Website.
+**[TED Capstone Project]** The TED Capstone Project is a responsive website designed to showcase a TED-like event. It includes features such as speaker profiles, event schedules, and session details, providing users with an interactive experience similar to attending a TED conference.
 
 ## 🛠 Built With <a name="built-with"></a>
 
